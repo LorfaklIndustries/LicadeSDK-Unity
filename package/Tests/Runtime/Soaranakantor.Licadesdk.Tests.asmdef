@@ -1,0 +1,11 @@
+{
+    "name": "Soaranakantor.Licadesdk.Tests",
+    "references": [
+        "Soaranakantor.Licadesdk"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

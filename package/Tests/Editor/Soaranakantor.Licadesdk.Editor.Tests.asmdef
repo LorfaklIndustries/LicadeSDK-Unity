@@ -1,0 +1,14 @@
+{
+    "name": "Soaranakantor.Licadesdk.Editor.Tests",
+    "references": [
+        "Soaranakantor.Licadesdk.Editor",
+        "Soaranakantor.Licadesdk"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

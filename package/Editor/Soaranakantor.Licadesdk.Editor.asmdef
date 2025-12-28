@@ -1,0 +1,10 @@
+{
+    "name": "Soaranakantor.Licadesdk.Editor",
+    "references": [
+      "Soaranakantor.Licadesdk"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

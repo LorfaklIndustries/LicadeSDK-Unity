@@ -1,0 +1,26 @@
+{
+  "name": "com.lorfaklindustries.licadesdk",
+  "displayName": "LicadeSDK",
+  "version": "0.1.0",
+  "unity": "6000.3",
+  "unityRelease": "2f1",
+  "description": "This is the official SDK for Licade platform by Lorfakl Industries. It provides tools and libraries to integrate your Unity games with Licade Cabinets.",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "author": {
+    "name": "Lorfakl Industries",
+    "url": "licade.games/docs",
+    "email": "dev@lorfakl.industries"
+  },
+  "changelogUrl": "https://example.com/changelog.html",
+  "documentationUrl": "https://example.com/",
+  "licensesUrl": "https://example.com/licensing.html",
+  "samples": [
+    {
+      "displayName": "Example Sample",
+      "description": "Replace this string with your own description of the sample. Delete the Samples folder if not needed.",
+      "path": "Samples~/Example"
+    }
+  ]
+}

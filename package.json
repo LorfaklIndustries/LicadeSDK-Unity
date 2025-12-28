@@ -1,7 +1,0 @@
-{
-  "name": "com.lorfaklindustries.licadesdk",
-  "version": "1.0.0",
-  "displayName": "Licade Platform SDK",
-  "description": "The official SDK for connecting Unity games to the Licade Platform Cabinets.",
-  "unity": "2021.3"
-}
